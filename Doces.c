@@ -4,7 +4,7 @@
 int main() {
     char nome[50];   // Armazena o nome do cliente
     int tipoDoce;    // Armazena o tipo de doce escolhido pelo usu?rio
-    float quantidade, preco1, preco2, precoKg, total; // Vari?veis para c?lculos
+    float quantidade, preco1, preco2, precoKg, total; // Variaveis para calculos
     char doce[50];   // Armazena o nome do doce escolhido
 
     // Solicita o nome do cliente
